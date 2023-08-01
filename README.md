@@ -1,5 +1,6 @@
 # Academic-Paper
-Exploring The Potential of Digital Twin Technology for Enhancing Online Shopping Experience
+Exploring The Potential of Digital Twin Technology for Enhancing Online Shopping Experience.
+
 Digital twin technology has gained increasing popularity in recent years, and the rise of e-commerce
 during the COVID-19 pandemic has highlighted the need for a better online shopping experience.
 This paper proposes the integration of digital twin technology,augmented reality (AR) and
